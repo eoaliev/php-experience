@@ -1,7 +1,0 @@
-{
-	// "shell_cmd": "php.exe -f $file && php.exe -r \"echo PHP_EOL.PHP_EOL;\"",
-	"cmd": ["CMD", "/c", "E:\\PHP-coding\\php-7.2.1\\php.exe", "-f", "$file"],
-	// "working_dir": "E:\\PHP-coding\\php-7.2.1\\",
-	"file_patterns": ["*.php"],
-	"selector": "source.php"
-}
