@@ -4,4 +4,4 @@
 
 Часть 1: https://youtu.be/ckyoJFFlyBU
 
-Часть 2: ...
+Часть 2: https://youtu.be/yUkfXw3zpFw
