@@ -1,3 +1,5 @@
 <?php
 
-// Pass
+$b = 1.62;
+
+var_dump($b);

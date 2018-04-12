@@ -1,0 +1,3 @@
+<?php
+$WOWclasses = array ( "melee" => "Rogue", "melee" => "Warrior", "melee" => "Paladin", "hybrid" => "Druid", "hybrid" => "Shaman", "ranged" => "Warlock", "hybrid" => "Hunter", "hybrid" => "Monk", "melee" => "Death knight", "ranged" => "Priest");
+echo "Классов выбранного типа - ".count($WOWclasses);
